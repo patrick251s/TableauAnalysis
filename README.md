@@ -1,6 +1,6 @@
 # Business Intelligence Dashboards
 
-Click below to see my dashboards (if they are not available, see folder images) <br/><br/>
+Click below to see my dashboards (if they are not available, see folder Dashboards) <br/><br/>
 
 Tableau <br/>
 1. https://public.tableau.com/app/profile/patryk.ka.mierak/viz/HDSBI-Zaliczenie-Kazmierak-Patryk/Dashboard1?publish=yes <br/>

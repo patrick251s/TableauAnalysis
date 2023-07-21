@@ -2,7 +2,7 @@
 
 Click below to see my dashboards (if they are not available, see folder Dashboards) <br/><br/>
 
-Tableau <br/>
+<b>Tableau</b> <br/>
 1. https://public.tableau.com/app/profile/patryk.ka.mierak/viz/HDSBI-Zaliczenie-Kazmierak-Patryk/Dashboard1?publish=yes <br/>
 2. https://public.tableau.com/app/profile/patryk.ka.mierak/viz/LabTableau_16888451098320/D46?publish=yes <br/>
 3. https://public.tableau.com/app/profile/patryk.ka.mierak/viz/LabTableau_16888451098320/D45?publish=yes <br/><br/>
